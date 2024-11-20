@@ -1,0 +1,19 @@
+body{
+	background-color: #860909;
+	font-family: Arial ;
+	color: #f1e8ba;
+	}
+
+h1{ 
+	text-decoration: underline;
+	}
+
+h1.titre {
+	font-size:60px;
+	 text-align: center ;
+	padding-left: 100px;
+	font-family: Arial, "Arial", Arial
+}
+Img{
+	width:25%
+}
